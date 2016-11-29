@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hi there</title>
+</head>
+<body>
+ <form  action='/project' method='POST'>
+ <input type='text' name='project'>
+ <input type='submit' value='submit'>
+ </form>
+</body>
+</html>
